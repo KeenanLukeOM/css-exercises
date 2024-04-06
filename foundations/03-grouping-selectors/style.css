@@ -1,0 +1,14 @@
+.button-font {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.fake-button {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.real-button {
+    background-color: yellow;
+}
